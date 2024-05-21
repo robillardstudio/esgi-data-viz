@@ -1,10 +1,13 @@
-@import url(http://fonts.googleapis.com/css?family=Vollkorn:400,400italic,700,700italic&subset=latin);
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('font/Vollkorn-Regular.ttf');
+}
 
 html, body {
         padding:1em;
         margin:auto;
         max-width:48em;
-        background:#c7d7de;
+        background:#dceef5;
 	}
 body {
 	font: 1.3em "Vollkorn", Palatino, Times;

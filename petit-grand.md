@@ -1,4 +1,4 @@
-# Petit et grand
+% Petit et grand
 
 Consigne : Par la forme et la taille exprimer le petit et le grand à partir des 1073 emails hackés du Climate Research Unit (2009).
 
@@ -10,7 +10,7 @@ Suivre :
 
 Contrainte : dimension image 960 x 640 px
 
-Ressource : [1073 emails](http://mobitool.free.fr/edu/dd/data/crumail.zip)
+Ressource : [1073 emails](data/crumail.zip)
 
 Astuce :
 

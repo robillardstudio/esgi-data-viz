@@ -8,7 +8,7 @@ L’une des plus grandes frustrations des modèles d’IA générative texte-ima
 
 Informations sur LAION Aesthetics [https://github.com/LAION-AI/laion-datasets/blob/main/laion-aesthetic.md](https://github.com/LAION-AI/laion-datasets/blob/main/laion-aesthetic.md)
 
-Phototrails [http://manovich.net/index.php/exhibitions/manga-style-space](http://manovich.net/index.php/exhibitions/phototrails)
+Phototrails [http://manovich.net/index.php/exhibitions/phototrails](http://manovich.net/index.php/exhibitions/phototrails)
 
 Manga Style Space [http://manovich.net/index.php/exhibitions/manga-style-space](http://manovich.net/index.php/exhibitions/manga-style-space)
 

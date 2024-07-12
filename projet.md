@@ -24,6 +24,15 @@ Vous livrez un dossier A4 paysage pdf (ou une vidéo max 3 min pour le sujet 3),
 - URL pour le projet en ligne
 - URL pour le code et sa documentation (p5 editor ou github)
 
+## Critères
+
+On compte quatre critères :
+
+- réflexion
+- recherches
+- qualité technique
+- qualité graphique
+
 ## Méthode
 
 Calcul de la teinte moyenne d'une image (hue)

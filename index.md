@@ -3,7 +3,9 @@
 
 ## Syllabus
 
-Ce cours vise à développer des compétences dans le domaine du design appliqué à la data. Par la compréhension et la maîtrise, nous aborderons à la fois le design graphique, les datas et la production de sens. Les données sont un matériau et une économie dominants du début du XXIeme. Cet état de fait avait été annoncé il y a déjà plus de cinquante ans. Abraham Moles, théoricien de l'information proposait en 1968 :
+Ce cours vise à développer des compétences dans le domaine du design appliqué à la data. Par la compréhension et la maîtrise, nous aborderons à la fois le design graphique, les datas, l'interactivité et la production de sens.
+
+Les données sont un matériau et une économie dominants du début du XXIeme. Cet état de fait avait été annoncé il y a déjà plus de cinquante ans. Abraham Moles, théoricien de l'information proposait en 1968 :
 
 > On considère aujourd'hui l'information comme la troisième entité principale de la nature, apres la matière et l'énergie. Abraham Moles in _Bit International_, Zagreb, 1968.
 
@@ -27,12 +29,10 @@ L'esthétique informationnelle d'alors suit le principe que toute qualité est u
 
 | Date                | Activité                  |
 | -------------       | -----------------         |
-| 22/05 (3h)          | Introducton, outils       |
-| 22/05 (3h)          | Exercice                  |
-| 19/06 (3h)          | Exercice (rendu)          |
-| 10/07 (3h)          | Projet                    |
-| 12/07 (1h30)        | Projet (finalisation)     |
-| 12/07 (3h)          | Soutenance                |
+| 19/05 (3h)          | Introducton, outils       |
+| 09/07 (6h)          | Exercice                  |
+| 10/07 (6h)          | Projet                    |
+| 11/07 (1h30)        | Soutenance                |
 
 ## Évaluation (en binômes)
 
@@ -58,6 +58,10 @@ Initiation python, [A Byte of Python](https://python.swaroopch.com/)
 Jacques Bertin, *Sémiologie Graphique : Les diagrammes, les réseaux, les cartes*, Les ré-impressions des éditions de l'Ecole des Hautes Etudes en Sciences Sociales, 1999 (Ed. orig. 1967).
 
 David Bihanic (eds.), *Data design. Les données comme matériau de création*, Alternatives et Fondation EDF, 2018.
+
+Erik Hazzard, *Data Visualization in Games*, GameAnalytics, 2015. [https://www.gameanalytics.com/blog/data-visualization-games](https://www.gameanalytics.com/blog/data-visualization-games)
+
+Elijah Meeks, *What Video Games Have to Teach Us About Data Visualization*, Medium, 2018. [https://medium.com/nightingale/what-video-games-have-to-teach-us-about-data-visualization-87c25ff7c62f](https://medium.com/nightingale/what-video-games-have-to-teach-us-about-data-visualization-87c25ff7c62f)
 
 Edward Tufte, *Seeing with Fresh Eyes: Meaning, Space, Data, Truth*, Graphics Press, 2020.
 
